@@ -1,1 +1,0 @@
-import{P as c}from"./site.CpJhQJ91.js";for(const t of document.querySelectorAll("[data-gated-card]")){const o=t.dataset.ev;o&&fetch(`${c}/api/gift?ev=${encodeURIComponent(o)}`).then(e=>e.json()).then(e=>{e.status!=="locked"&&t.remove()}).catch(()=>{})}
