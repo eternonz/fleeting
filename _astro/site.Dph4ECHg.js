@@ -1,0 +1,1 @@
+const o="https://pay.eterno.nz",n="622293535052-qkhr78bimjhbmsfhnf0189bniuh2no3f.apps.googleusercontent.com",a=["timestorynz@gmail.com","zxz050328@gmail.com","markwang20240101@gmail.com"];export{n as G,a as P,o as a};
